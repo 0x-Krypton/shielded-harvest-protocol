@@ -1,6 +1,5 @@
-import { Button } from "@/components/ui/button";
 import { Card } from "@/components/ui/card";
-import { Wallet, Shield, Leaf } from "lucide-react";
+import { Shield, Leaf } from "lucide-react";
 import { Link, useLocation } from "react-router-dom";
 
 const Header = () => {
@@ -51,11 +50,6 @@ const Header = () => {
               <span className="text-muted-foreground">Encrypted</span>
             </div>
           </Card>
-          
-          <Button variant="outline" className="glow-border">
-            <Wallet className="h-4 w-4 mr-2" />
-            Connect Wallet
-          </Button>
         </div>
       </div>
     </header>
