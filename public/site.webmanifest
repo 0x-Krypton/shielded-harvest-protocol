@@ -1,0 +1,21 @@
+{
+  "name": "Shielded Harvest Protocol",
+  "short_name": "PrivateFarm",
+  "description": "Privacy-First DeFi Yield Farming with Fully Homomorphic Encryption",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    },
+    {
+      "src": "/favicon.ico",
+      "sizes": "16x16 32x32",
+      "type": "image/x-icon"
+    }
+  ],
+  "theme_color": "#10b981",
+  "background_color": "#0a0a0a",
+  "display": "standalone",
+  "start_url": "/"
+}
